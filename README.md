@@ -1,5 +1,5 @@
 # Welcome to Monsef's profile 👋
-- 👨‍💻 I'm a Computer Science student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I'm a senior Computer Science student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🧠 I'm currently learning Backend web development
 - 🛠 Skills :
   HTML , CSS , C++ , Python , SQL , Django
