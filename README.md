@@ -1,8 +1,8 @@
 # Welcome to Monsef's profile 👋
-- 👨‍💻 I'm a senior Computer Science student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🧠 I'm currently learning Backend web development
+- 👨‍💻 I’m a fresh graduate from the Faculty of Computers and Artificial Intelligence, I'm constantly learning and exploring new technologies to improve my skills.
+- 🧠 I'm Interested in Backend web development
 - 🛠 Skills :
-  HTML , CSS , C++ , Python , SQL , Django
+  HTML , CSS , C++ , Python , SQL , Django , DRF 
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abd-el-monsef/)
